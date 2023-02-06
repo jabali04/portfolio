@@ -2,24 +2,47 @@ import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assests/P1.png'
 import IMG2 from '../../assests/P2.png'
+import IMG3 from '../../assests/P3.png'
+import IMG4 from '../../assests/P4.png'
+import IMG5 from '../../assests/P5.png'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'TODO LIST APP-- VANILLA JS',
+    title: 'TODO LIST APP',
     github: 'https://github.com/jabali04/jabali04.github.io',
-    demo: 'https://www.pinterest.es/inmobiliariaolaranozores/colores-oscuros-en-decoraci%C3%B3n/'
+    demo: 'https://jabali04.github.io/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'POMODORO APP-- REACT JS',
+    title: 'POMODORO APP',
     github: 'https://github.com/jabali04/pomodoro-app',
-    demo: 'https://www.pinterest.es/inmobiliariaolaranozores/colores-oscuros-en-decoraci%C3%B3n/'
+    demo: 'https://jabali04.github.io/pomodoro-app/'
   },
-
+  {
+    id: 3,
+    image: IMG3,
+    title: 'IMAGE SEARCH APP',
+    github: 'https://github.com/jabali04/search-images',
+    demo: 'https://jabali04.github.io/search-images/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'READING LIST APP',
+    github: 'https://github.com/jabali04/reading-list-app',
+    demo: 'https://jabali04.github.io/reading-list-app/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'RESPONSIVE SITE',
+    github: 'https://github.com/jabali04/responsiveSite',
+    demo: 'https://jabali04.github.io/responsiveSite/'
+  }
 ]
 
 
