@@ -75,10 +75,6 @@ function Portfolio() {
   )
 }
 
-function Portfolio() {
-  
-}
-
 export default Portfolio
 
 
