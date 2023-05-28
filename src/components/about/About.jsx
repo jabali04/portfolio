@@ -37,7 +37,6 @@ function About() {
             </article>
           </div>
           <p>Security Engineer Linux Enthusiast And Passionate About Frontend Technologies I Am Looking For A New Challenge In My Career As A Member Of A Web Development Team Where I Can Develop My Teamwork And Critical Thinking Skills</p>
-          <p>My Study Focus Has Been Frontend Technologies: HTML, CSS, BOOTSTRAP, JAVASCRIPT And REACT.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
